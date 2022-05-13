@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Kaitlin Lewis</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
-- 🔭 I’m currently working on **tech tools and resources for teachers**
+- 🔭 I’m currently working on **tech tools and resources for education**
 
 - 🌱 I’m currently learning **all things javascript**
 
