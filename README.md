@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **edu tech!**
 
-- 📫 How to reach me **@exploreeducate on Twitter**
+- 📫 How to reach me **@ctrlshiftkait on Twitter**
 
 - ⚡ Fun fact **I celebrate pi day every year!**
 
