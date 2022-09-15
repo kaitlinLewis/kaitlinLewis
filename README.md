@@ -1,11 +1,11 @@
 <h1 align="center">👋 I'm Kaitlin Lewis</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
-- 🔭 I’m currently working on **tech tools and resources for education**
+- 🔭 I’m currently working on **anything to promote accessibility, education, and equity in tech**
 
 - 🌱 I’m currently learning **all things javascript**
 
-- 💬 Ask me about **edu tech!**
+- 💬 Ask me about **sewing! donuts! how to engage youth in STEM!**
 
 - 📫 How to reach me **@ctrlshiftkait on Twitter**
 
