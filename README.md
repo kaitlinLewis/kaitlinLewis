@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **sewing! donuts! how to engage youth in STEM!**
 
-- 📫 How to reach me **@ctrlshiftkait on Twitter**
+- 📫 How to reach me **@kaitlinmlewis on Twitter**
 
 - ⚡ Fun fact **I celebrate pi day every year!**
 
