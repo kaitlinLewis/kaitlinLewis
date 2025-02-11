@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Kaitlin Lewis</h1>
-<h3 align="center">A passionate software developer from Canada</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on **anything to promote accessibility, education, and equity in tech**
 
